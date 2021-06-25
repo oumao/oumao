@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**oumao/oumao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Am Ouma Evans
+I am an ambitious and enthused software engineer with a demonstrated history of working in the information technology and services industry.<br>
+I believe in learning and knowledge sharing. I also deeply believe in the open-source movement and try to give back to the community whenever I can.
 
-Here are some ideas to get you started:
+## Skills
+* Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/oumao/github-readme-stats)
+![stats](https://github-readme-stats.vercel.app/api?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+## 🏗 I’m currently working on
+- A system to track Students and stuffs suffering from RTIs and TB.
+
+
+## 📚 I’m currently learning
+- ReactJs
+- PHP
+- Java
+
+## 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/oumaot/)<br>
+
+## 🤵 Pronouns:
+- Him/His
