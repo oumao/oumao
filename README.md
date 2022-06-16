@@ -10,7 +10,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/oumao/github-readme-stats)
 ![stats](https://github-readme-stats.vercel.app/api?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ## Code Wars Badge
-[Code Wars Badge](https://www.codewars.com/users/oumao/badges/large)
+![Code Wars Badge](https://www.codewars.com/users/oumao/badges/large)
 ## 🏗 I’m currently working on
 - Animet(A Platform to connect various farmers with the best veterinary services)
 
