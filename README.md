@@ -7,7 +7,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
 ## Skills
 * Backend Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/oumao/github-readme-stats)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ## Code Wars Badge
 ![Code Wars Badge](https://www.codewars.com/users/oumao/badges/large)
@@ -25,6 +25,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
   <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
   </a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/oumao/github-readme-stats)
 
    <a 
     href="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
