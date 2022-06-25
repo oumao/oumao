@@ -14,11 +14,29 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
 ## 🏗 I’m currently working on
 - Animet(A Platform to connect various farmers with the best veterinary services)
 
+#### stats
 
-## 📚 I’m currently learning
-- ReactJs
-- PHP
-- Java
+<div align="flex">
+  <a
+    href="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=true">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=true" width="500">
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Trikle&layout=compact">
+  </a>
+
+   <a 
+    href="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
+  </a>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&layout=compact" width="300">
+  </a>
+ 
+  <div>
+
 
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumaot/)](https://www.linkedin.com/in/oumaot/)<br>
