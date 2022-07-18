@@ -18,7 +18,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
       src="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=true" width="500">
   </a>
   <a src="https://wakatime.com/share/@oumao/8d4303a7-8f6c-4bf3-8fad-7bace0c99fa5.svg">
-    <img src="https://wakatime.com/share/@oumao/8d4303a7-8f6c-4bf3-8fad-7bace0c99fa5.svg" height="200">
+    <img src="https://wakatime.com/share/@oumao/8d4303a7-8f6c-4bf3-8fad-7bace0c99fa5.svg" height="300" width="400">
   </a>
 <!--   <figure>
     <embed src="https://wakatime.com/share/@oumao/d3fc8e67-90eb-4c9f-9fc3-0f0498a77578.svg"></embed>
