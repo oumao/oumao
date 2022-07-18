@@ -27,8 +27,8 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumao&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height="500" width="300">
   </a>
-   <a src="https://wakatime.com/share/@oumao/8103ef2a-a41a-44ab-abb9-a55365f14977.svg">
-    <img src="https://wakatime.com/share/@oumao/8103ef2a-a41a-44ab-abb9-a55365f14977.svg" height="400" width="700">
+   <a src="https://wakatime.com/share/@oumao/be64dcbc-2328-4271-97c6-d59975217158.svg">
+    <img src="https://wakatime.com/share/@oumao/be64dcbc-2328-4271-97c6-d59975217158.svg" height="400" width="700">
   </a>
  
   <div>
