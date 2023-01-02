@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Ouma Evans
-I am an ambitious and enthused software engineer with a demonstrated history of working in the information technology and services industry.<br>
+I am a software engineer with a demonstrated history of working in the information technology and services industry.<br>
 I believe in learning and knowledge sharing. I also deeply believe in the open-source movement and try to give back to the community whenever I can.
 
 ## Code Wars Badge
