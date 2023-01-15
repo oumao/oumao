@@ -15,12 +15,12 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
   <a
     href="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=truetitle_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=true" width="300">
+      src="https://github-readme-stats.vercel.app/api?username=oumao&layout=compact&show_icons=true&count_private=true" width="350">
   </a>
    <a 
     href="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oumao" width="350">
   </a>
   </div>
   <div align="flex">
