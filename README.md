@@ -36,6 +36,3 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
 
 ## 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumaot/)](https://www.linkedin.com/in/oumaot/)<br>
-
-## 🤵 Pronouns:
-- Him/His
