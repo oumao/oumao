@@ -7,7 +7,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
 ### Code Wars Badge
 ![Code Wars Badge](https://www.codewars.com/users/oumao/badges/large)
 
-#### stats
+### stats
 
 <div align="flex">
   <a
