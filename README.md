@@ -30,7 +30,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
   </a> -->
   
   <a>
-    <img https://raw.githubusercontent.com/oumao/oumao/main/images/stat.svg />
+    <img src="https://raw.githubusercontent.com/oumao/oumao/main/images/stat.svg" />
   </a>
  
   <div>
