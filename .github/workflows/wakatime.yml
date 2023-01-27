@@ -10,8 +10,9 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
       - uses: oumao/oumao@main
+      - uses: actions/checkout@v2
+      - uses: ./
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }} # only required if using the action in repository other than profile
