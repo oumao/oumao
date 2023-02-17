@@ -18,7 +18,7 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
    <a 
     href="https://github-readme-streak-stats.herokuapp.com/?user=oumao">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=oumao" width="395">
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oumao" width="405">
   </a>
   </div>
   <div align="flex">
