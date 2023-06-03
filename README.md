@@ -34,9 +34,9 @@ I believe in learning and knowledge sharing. I also deeply believe in the open-s
   </a>
    -->
   
- <a href="https://raw.githubusercontent.com/oumao/oumao/main/images/wakatime_weekly_language_stats.svg">
+<!--  <a href="https://raw.githubusercontent.com/oumao/oumao/main/images/wakatime_weekly_language_stats.svg">
     <img src="https://raw.githubusercontent.com/oumao/oumao/main/images/wakatime_weekly_language_stats.svg" width="707" />
-  </a>
+  </a> -->
  
   <div>
     
